@@ -25,7 +25,7 @@ Requires (on YOUR machine, with internet):
     pip install torch transformers scikit-learn pandas numpy matplotlib openpyxl
 
 Run:
-    python run_molformer.py --excel "surrogate_compositions_6000.xlsx"
+    python run_molformer.py --excel "dataset file"
 """
 from __future__ import annotations
 
