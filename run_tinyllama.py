@@ -35,7 +35,7 @@ model, so a GPU is strongly recommended; on CPU use a small
     pip install torch transformers scikit-learn pandas numpy matplotlib openpyxl
 
 Run:
-    python run_tinyllama.py --excel "surrogate_compositions_6000.xlsx"
+    python run_tinyllama.py --excel "dataset file"
 """
 from __future__ import annotations
 
