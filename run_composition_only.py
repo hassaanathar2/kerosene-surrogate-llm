@@ -40,7 +40,7 @@ Requires:
 Run (use the SAME --excel, --split_seed, --test_size, --seeds as your
 run_chemberta.py / run_molformer.py / run_tinyllama.py runs, so the four
 result rows are directly comparable):
-    python run_composition_only.py --excel "surrogate_compositions_6000.xlsx"
+    python run_composition_only.py --excel "dataset file"
 """
 from __future__ import annotations
 
