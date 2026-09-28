@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*_outputs/
+*.npy
+*.xlsx
+!examples/*.xlsx
+.pytest_cache/
+.DS_Store

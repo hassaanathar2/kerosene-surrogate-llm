@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+openpyxl>=3.1
+torch>=2.1
+transformers>=4.40
+sentencepiece        # TinyLlama tokenizer
+pytest>=7.0          # only needed to run tests/
